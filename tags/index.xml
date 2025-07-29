@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - Haorizon</title>
+        <link>https://fanghau.top/tags/</link>
+        <description>Tags - 标签 - Haorizon</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 27 Jul 2025 22:34:24 &#43;0800</lastBuildDate><atom:link href="https://fanghau.top/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>乐理</title>
+    <link>https://fanghau.top/tags/%E4%B9%90%E7%90%86/</link>
+    <pubDate>Sun, 27 Jul 2025 22:34:24 &#43;0800</pubDate>
+    <author>昉晧</author>
+    <guid>https://fanghau.top/tags/%E4%B9%90%E7%90%86/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>理论</title>
+    <link>https://fanghau.top/tags/%E7%90%86%E8%AE%BA/</link>
+    <pubDate>Sun, 27 Jul 2025 22:34:24 &#43;0800</pubDate>
+    <author>昉晧</author>
+    <guid>https://fanghau.top/tags/%E7%90%86%E8%AE%BA/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>笛子</title>
+    <link>https://fanghau.top/tags/%E7%AC%9B%E5%AD%90/</link>
+    <pubDate>Sun, 27 Jul 2025 22:34:24 &#43;0800</pubDate>
+    <author>昉晧</author>
+    <guid>https://fanghau.top/tags/%E7%AC%9B%E5%AD%90/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>https://fanghau.top/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>昉晧</author>
+    <guid>https://fanghau.top/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://fanghau.top/tags/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>昉晧</author>
+    <guid>https://fanghau.top/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
